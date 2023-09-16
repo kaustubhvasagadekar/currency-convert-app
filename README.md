@@ -19,8 +19,8 @@ To run this app, you will need to have Node.js and Electron installed on your co
 Once you have Node.js and Electron installed, you can clone this repository and install the dependencies by running the following commands:
 
 ```
-git clone https://github.com/kaustubh_vasagadekar/currency-converter-app.git
-cd currency-converter-app
+git clone https://github.com/kaustubh_vasagadekar/currency-convert-app.git
+cd currency-convert-app
 npm install
 ```
 
